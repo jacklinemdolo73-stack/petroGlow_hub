@@ -1,4 +1,4 @@
-JACKLINE MDOLO
+JACKLINE JOSHUA MDOLO  14320033/T.24  BSC.ICTM
 
 # PetroGlow Fuel Ordering System
 
@@ -45,5 +45,7 @@ A simple PHP and MySQL web application for processing fuel orders. The system va
 ## Author
 
 PetroGlow Fuel Ordering System
+@ kadefue
+
 
 @ kadefue
